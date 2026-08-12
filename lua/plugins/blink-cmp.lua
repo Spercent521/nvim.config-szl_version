@@ -27,7 +27,7 @@ cmp.build():pwait(60000)
 local provider_cycle = {
 	{ name = "snippets", providers = { "snippets" } },
 	{
-		name = "defalut",
+		name = "default",
 		providers = {
 			"lsp",
 			"dadbod_grip",
